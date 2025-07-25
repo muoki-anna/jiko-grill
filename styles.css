@@ -1,0 +1,10 @@
+button{
+    background-color: rgb(237, 237, 245);
+    color: black;
+    border-radius: 20%;
+    border: 4%;
+}
+.carousel-item{
+    height: 450px;
+     width: 100px;;
+}
